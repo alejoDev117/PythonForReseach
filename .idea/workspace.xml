@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aba9ed7f-5ec1-42d3-a43b-df865b03b604" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/proyects/proyect1/ImageCounter.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proyects/proyect1/.ipynb_checkpoints/ImageCounter-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/proyects/proyect1/.ipynb_checkpoints/ImageCounter-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proyects/proyect1/ImageCounter.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/proyects/proyect1/ImageCounter.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="aba9ed7f-5ec1-42d3-a43b-df865b03b604" name="Changes" comment="first commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,6 +67,7 @@
       <workItem from="1723430182446" duration="5946000" />
       <workItem from="1723474733777" duration="3437000" />
       <workItem from="1723651640744" duration="651000" />
+      <workItem from="1723653423432" duration="611000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
