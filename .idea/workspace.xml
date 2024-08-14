@@ -5,20 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aba9ed7f-5ec1-42d3-a43b-df865b03b604" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/proyects/proyect1/data/cartas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proyects/proyect1/data/coins.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyects/proyect1/ImageCounter.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/proyects/proyect1/.ipynb_checkpoints/ImageCounter-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/proyects/proyect1/.ipynb_checkpoints/ImageCounter-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/proyects/proyect1/ImageCounter.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/proyects/proyect1/ImageCounter.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proyects/proyect1/data/beatles_gray.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proyects/proyect1/data/beatles_gray_binary.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proyects/proyect1/data/cartas.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proyects/proyect1/data/colors.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proyects/proyect1/data/colors_gray.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proyects/proyect1/data/colors_gray_binary.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proyects/proyect1/data/table.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proyects/proyect1/data/table_gray.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proyects/proyect1/data/table_gray_binary.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,6 +71,7 @@
       <workItem from="1723428679360" duration="1086000" />
       <workItem from="1723430182446" duration="5946000" />
       <workItem from="1723474733777" duration="3437000" />
+      <workItem from="1723651640744" duration="651000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
