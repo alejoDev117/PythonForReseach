@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aba9ed7f-5ec1-42d3-a43b-df865b03b604" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/proyects/midtermProyect/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proyects/midtermProyect/Untitled.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proyects/midtermProyect/data/audiovoice.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proyects/midtermProyect/data/cave14.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proyects/midtermProyect/data/voice.mp3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyects/midtermProyect/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/proyects/midtermProyect/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyects/midtermProyect/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/proyects/midtermProyect/Untitled.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,6 +90,7 @@
       <workItem from="1725897605272" duration="156000" />
       <workItem from="1726269072269" duration="2804000" />
       <workItem from="1726271960021" duration="1633000" />
+      <workItem from="1726327982638" duration="998000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
