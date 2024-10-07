@@ -5,9 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aba9ed7f-5ec1-42d3-a43b-df865b03b604" name="Changes" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/proyects/midtermProyect/.ipynb_checkpoints/Spectrogram Image Analysis  and Reconstruction-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyects/midtermProyect/Spectrogram Image Analysis  and Reconstruction.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyects/midtermProyect/processed_spectrogram_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyects/midtermProyect/spectrogram_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyects/proyect2/.ipynb_checkpoints/AnalogConversion-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyects/proyect2/AnalogConversion.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyects/proyect3/ SentimentAnalysis.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyects/proyect3/.ipynb_checkpoints/ SentimentAnalysis-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyects/proyect3/data/social_media_posts.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proyects/midtermProyect/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/proyects/midtermProyect/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proyects/midtermProyect/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/proyects/midtermProyect/Untitled.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyects/midtermProyect/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyects/midtermProyect/Untitled.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyects/proyect2/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyects/proyect2/Untitled.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +102,8 @@
       <workItem from="1726269072269" duration="2804000" />
       <workItem from="1726271960021" duration="1633000" />
       <workItem from="1726327982638" duration="998000" />
+      <workItem from="1726498197823" duration="1250000" />
+      <workItem from="1728319362430" duration="2531000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
