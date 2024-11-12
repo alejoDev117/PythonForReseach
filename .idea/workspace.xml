@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aba9ed7f-5ec1-42d3-a43b-df865b03b604" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/proyects/proyect4/.ipynb_checkpoints/DataAnalysis-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proyects/proyect4/DataAnalysis.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proyects/proyect4/data/ABoVE_ Soil Temperature and VWC at Unburned and Burned Sites Across Alaska, 2016-2023.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proyects/proyect4/data/Alaska_HCU_SoilTemp_VWC_15cm.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyects/proyect4/.ipynb_checkpoints/DataAnalysis-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/proyects/proyect4/.ipynb_checkpoints/DataAnalysis-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyects/proyect4/DataAnalysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/proyects/proyect4/DataAnalysis.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,6 +96,7 @@
       <workItem from="1730942513249" duration="40000" />
       <workItem from="1731336316631" duration="1807000" />
       <workItem from="1731339369504" duration="1936000" />
+      <workItem from="1731373645797" duration="295000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
