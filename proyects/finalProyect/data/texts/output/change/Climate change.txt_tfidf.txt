@@ -1,0 +1,6 @@
+TF-IDF Scores for Climate change.txt:
+change: 0.4120
+climate: 0.3728
+global: 0.2158
+energy: 0.1962
+economy: 0.1766

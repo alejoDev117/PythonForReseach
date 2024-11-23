@@ -1,0 +1,6 @@
+TF-IDF Scores for Data science.txt:
+datum: 0.6920
+science: 0.2215
+scientist: 0.1938
+business: 0.1661
+data: 0.1384

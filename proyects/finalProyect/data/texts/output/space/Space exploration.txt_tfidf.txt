@@ -1,0 +1,6 @@
+TF-IDF Scores for Space exploration.txt:
+space: 0.4841
+human: 0.3227
+moon: 0.2766
+exploration: 0.2536
+planet: 0.2075

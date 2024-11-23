@@ -1,0 +1,6 @@
+TF-IDF Scores for Machine learning.txt:
+learning: 0.5007
+deep: 0.3426
+datum: 0.3162
+machine: 0.2899
+learn: 0.2372

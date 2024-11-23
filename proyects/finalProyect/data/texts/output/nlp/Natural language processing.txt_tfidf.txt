@@ -1,0 +1,6 @@
+TF-IDF Scores for Natural language processing.txt:
+nlp: 0.5192
+language: 0.3553
+machine: 0.2186
+understand: 0.1640
+human: 0.1640

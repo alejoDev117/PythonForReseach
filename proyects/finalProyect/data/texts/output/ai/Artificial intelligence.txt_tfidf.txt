@@ -1,0 +1,6 @@
+TF-IDF Scores for Artificial intelligence.txt:
+ai: 0.6362
+datum: 0.1497
+system: 0.1497
+predict: 0.1497
+industry: 0.1123

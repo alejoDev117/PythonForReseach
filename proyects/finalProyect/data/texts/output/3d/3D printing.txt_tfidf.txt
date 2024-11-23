@@ -1,0 +1,6 @@
+TF-IDF Scores for 3D printing.txt:
+3d: 0.5245
+printing: 0.2810
+print: 0.2622
+design: 0.2060
+manufacturing: 0.1499
