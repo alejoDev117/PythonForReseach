@@ -1,0 +1,9 @@
+art-of-samples-buzz-120-bpm-audio-logo-245396.mp3: Dominant pitch: 434.65 Hz
+bells-melody-loop-266598.mp3: Dominant pitch: 576.76 Hz
+christmas-melody-loop-v1-266605.mp3: Dominant pitch: 335.54 Hz
+clock-ticking-sound-effect-240503.mp3: Dominant pitch: 2117.15 Hz
+retro-audio-logo-94648.mp3: Dominant pitch: 239.34 Hz
+sound-affect-drizzy1ndac1ub-feat-mrfancyfrogxxx-249330.mp3: Dominant pitch: 264.87 Hz
+sound-of-hooting-owls-in-nighttime-hd-263177.mp3: Dominant pitch: 595.32 Hz
+sound-of-howling-wind-through-a-mountain-pass-hd-261324.mp3: Dominant pitch: 493.44 Hz
+sound-of-typing-on-a-computer-keyboard-hd-263165.mp3: Dominant pitch: 1796.01 Hz
